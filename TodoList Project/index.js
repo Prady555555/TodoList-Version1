@@ -9,6 +9,7 @@ function btnFunction(){
   var name = input.value;
    array.push(name);
   console.log(array);
+  // this is the simple code for the placeholder retrive its automatically in the input box
   input.value= "";
  
 }
